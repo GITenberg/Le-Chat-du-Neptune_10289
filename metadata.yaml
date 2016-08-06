@@ -1,0 +1,28 @@
+_repo: Le-Chat-du-Neptune_10289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hervilly, Ernest d'
+    aliases:
+    - D'Hervilly, Ernest
+    - D'Hervilly, Marie Ernest
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '3444'
+    url: http://www.gutenberg.org/2009/agents/3444
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10289'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- GITenberg
+title: Le Chat du Neptune
+url: http://www.gutenberg.org/ebooks/10289
